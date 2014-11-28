@@ -1,0 +1,16 @@
+[
+{
+  "modid" : "satscapealarmcraft",
+  "name" : "Alarmcraft",
+  "version" : "$version",
+  "mcversion" : "$mcversion",
+  "url" : "http://satscape.wordpress.com",
+  "credits" : "Programming and graphics by Scott Hather",
+  "authors": [
+    "Satscape (Scott Hather)"
+  ],
+  "description": "Craftable alarm box can be placed in world and set to sound off various alarm sounds from very loud to quiet alert sounds when applied with any redstone pulse from vanilla redstone wire or any mods that generate redstone pulses. Also has a 'Bomb' mode, a one-time-only type of alarm that short-circuits the redstone inside the alarm box causing a substantial explosion...have fun!",
+  "logoFile" : "/assets/satscapealarmcraft/logo.png",
+  "updateUrl" : ""
+}
+]

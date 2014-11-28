@@ -1,0 +1,86 @@
+{
+    "carlock": {
+    "category": "block",
+    "sounds": [
+        "carlock"
+      ]
+    },
+    "alarmA": {
+    "category": "block",
+    "sounds": [
+        "alarmA"
+      ]
+    },
+    "alarmB": {
+    "category": "block",
+    "sounds": [
+        "alarmB"
+      ]
+    },
+    "alarmC": {
+    "category": "block",
+    "sounds": [
+        "alarmC"
+      ]
+    },
+    "alarmD": {
+    "category": "block",
+    "sounds": [
+        "alarmD"
+      ]
+    },
+    "alarmE": {
+    "category": "block",
+    "sounds": [
+        "alarmE"
+      ]
+    },
+    "alarmF": {
+    "category": "block",
+    "sounds": [
+        "alarmF"
+      ]
+    },
+    "alarmG": {
+    "category": "block",
+    "sounds": [
+        "alarmG"
+      ]
+    },
+    "alarmH": {
+    "category": "block",
+    "sounds": [
+        "alarmH"
+      ]
+    },
+    "alarmI": {
+    "category": "block",
+    "sounds": [
+        "alarmI"
+      ]
+    },
+    "alarmJ": {
+    "category": "block",
+    "sounds": [
+        "alarmJ"
+      ]
+    },
+    "alarmK": {
+    "category": "block",
+    "sounds": [
+        "alarmK"
+      ]
+    },
+    "alarmL": {
+    "category": "block",
+    "sounds": [
+        "alarmL"
+      ]
+    },
+    "alarmM": {
+    "category": "block",
+    "sounds": [
+        "alarmM"
+      ]
+    }
+}
