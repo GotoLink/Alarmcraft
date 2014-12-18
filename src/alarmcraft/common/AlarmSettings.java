@@ -3,7 +3,7 @@ package alarmcraft.common;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.tileentity.TileEntity;
 
-public class AlarmSettings extends TileEntity{
+public final class AlarmSettings extends TileEntity{
 
 	public int theType=0;
 	public boolean isPowered=false;

@@ -17,7 +17,7 @@ import org.apache.logging.log4j.Logger;
 /// v1.0.0 - 20th June 2013
 
 @Mod(modid="satscapealarmcraft", name="Alarmcraft")
-public class ModAlarmcraft {
+public final class ModAlarmcraft {
 	
 	@SidedProxy(clientSide = "alarmcraft.client.ClientProxy", serverSide = "alarmcraft.common.CommonProxy")
 	public static CommonProxy proxy;

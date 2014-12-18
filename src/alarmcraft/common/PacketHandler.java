@@ -10,7 +10,7 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.tileentity.TileEntity;
 
-public class PacketHandler implements IMessageHandler<SettingPacket, IMessage> {
+public final class PacketHandler implements IMessageHandler<SettingPacket, IMessage> {
 
     private int discr;
     private SimpleNetworkWrapper mainChannel;

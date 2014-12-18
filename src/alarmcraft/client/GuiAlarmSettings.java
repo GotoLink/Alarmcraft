@@ -13,7 +13,7 @@ import org.lwjgl.input.Mouse;
 import org.lwjgl.opengl.GL11;
 
 @SideOnly(Side.CLIENT)
-public class GuiAlarmSettings extends GuiScreen {
+public final class GuiAlarmSettings extends GuiScreen {
 	private static final ResourceLocation myBackgroundTexture = new ResourceLocation("satscapealarmcraft","textures/gui/guiBack.png");
 	private EntityPlayer thePlayer;
 	private AlarmSettings alarm;
