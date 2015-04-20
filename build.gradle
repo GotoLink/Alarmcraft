@@ -27,8 +27,9 @@ targetCompatibility = 1.6
 version = "1.0"
 group = "info.satscape.alarmcraft"
 minecraft {
+    version = "1.8-11.14.1.1350"
     runDir = "eclipse"
-    version = "1.7.10-10.13.2.1230"
+    mappings = "snapshot_20150401"
 }
 archivesBaseName = "Alarmcraft"
 //Set the workspace

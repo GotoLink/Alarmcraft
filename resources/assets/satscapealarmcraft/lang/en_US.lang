@@ -1,5 +1,5 @@
 
-tile.SatscapeAlarm.name=Alarm box
+tile.alarm.name=Alarm box
 gui.alarm.fulltext=Press the button below to cycle through the different types of alarms available. When you've found the one you want, click the 'Done' button at the bottom. Supply a redstone pulse (on/off signal) to any side of the box to sound the alarm.
 gui.alarm.name=Alarm %s
 gui.alarm.test=Test
